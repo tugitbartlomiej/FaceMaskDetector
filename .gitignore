@@ -1,0 +1,18 @@
+# Ignore config files
+*.ini
+*.cfg
+*.config
+*.xml
+*.json
+
+# Ignore image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+
+# Ignore virtual environment 
+venv/
+.env
+
